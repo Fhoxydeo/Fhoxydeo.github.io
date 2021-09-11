@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+h1{
+    font-size: 120px;
+}
+img:hover {
+    background-color: white;
+}
