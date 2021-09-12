@@ -4,12 +4,12 @@ body{
     text-align: center;
     font-family: Arial;
 }
-b{
-    font-size: 24px;
-}
 h1{
     font-size: 120px;
 }
 img:hover {
     background-color: white;
+}
+img:active{
+    background-color: gray;
 }
