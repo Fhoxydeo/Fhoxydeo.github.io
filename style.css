@@ -1,15 +1,22 @@
-body{
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-family: Arial;
-}
-h1{
-    font-size: 120px;
-}
-img:hover {
-    background-color: white;
-}
-img:active{
-    background-color: gray;
-}
+.banner {
+    background: url("img/background.png");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
+  
+  .lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #3d1fe6;
+  }
+  
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
